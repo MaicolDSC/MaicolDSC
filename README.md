@@ -1,49 +1,32 @@
+<h1>Hello! I'm Maicol Siachoque <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+<h2>Frontend Developer ⚡</h2>
 
+### About Me
+- I am 23 years old and I am from Sogamoso, Boyacá, Colombia.
+- I am a self-taught and highly creative person who seeks to learn and improve every day.
+- I enjoy working with the frontend because I want to provide the best visual experience to users who visit my projects.
 
-<h1 align="center">Hi, I'm Maicol! 👨‍💻</h1>
-<h3 align="center">
-  🚀 Frontend Developer | Passionate about crafting interactive and functional interfaces.
-</h3>
-<h4 align="center">
-  I turn ideas into engaging web experiences using modern technologies 🌐.
-</h4>
+### Technologies
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=white)
 
----
-
-## 💻 Technologies I Use
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   
-</div>
+
+### Contact Me
+
+<a href="https://www.linkedin.com/in/maicol-siachoque-77564427a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maicol%20Siachoque-blue?style=flat-square&logo=linkedin"></a>
+<a href="maicoldavidsc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-maicoldavidsc@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=MaicolDSC&show_icons=true&theme=github_dark)
 
 
----
-
-## 🌱 Currently Learning
-- **React and Vue.js Frameworks**: Enhancing user experience with modern tools.
-- **Version Control**: Mastering Git and GitHub for collaborative projects.
-
----
-
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/maicol-siachoque-77564427a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mdavidcubides@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/MaicolDSC" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
-
-<h3 align="center">Made with ❤️ by Maicol</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MaicolDSC&label=Profile%20views&color=0e75b6&style=flat" alt="MaicolDSC" /> </p>
 
 
