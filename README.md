@@ -15,16 +15,11 @@
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  
 </div>
 
----
-
-## 📂 Featured Projects
-| Project | Description | Technologies |
-|----------|-------------|-------------|
-| [Personal Portfolio]() | <img src=""> My personal portfolio showcasing my work and skills. | HTML, CSS, JavaScript |
-| [E-Commerce App]() | <img src=""> An interactive online store. | HTML, CSS, JavaScript |
-| [Landing Page]() | <img src=""> Optimized for conversions and user engagement. | HTML, CSS |
 
 ---
 
