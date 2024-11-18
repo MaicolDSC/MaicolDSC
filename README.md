@@ -5,12 +5,12 @@
   🚀 Frontend Developer | Passionate about crafting interactive and functional interfaces.
 </h3>
 <h4 align="center">
-  I turn ideas into engaging web experiences using modern technologies.
+  I turn ideas into engaging web experiences using modern technologies 🌐.
 </h4>
 
 ---
 
-## Technologies I Use
+## 💻 Technologies I Use
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
